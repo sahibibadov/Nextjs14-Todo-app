@@ -1,5 +1,5 @@
 import type { Config } from "tailwindcss"
-const { fontFamily } = require("tailwindcss/defaultTheme")
+
 const config = {
   darkMode: ["class"],
   content: [
@@ -11,7 +11,7 @@ const config = {
   prefix: "",
   theme: {
     fontFamily: {
-      sans: ["var(--font-sans)", ...fontFamily.sans],
+      sans: ["var(--font-sans)"],
     },
     container: {
       center: true,
