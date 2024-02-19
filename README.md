@@ -14,7 +14,7 @@ bun dev
 
 ## Demo
 
-live demo: ## Technologies Used https://nextjs14-blog-website.vercel.app/
+live demo: ## Technologies Used (https://nextjs14-todo-app-gamma.vercel.app/)
 
 ##  Technologies Used
 
